@@ -1,4 +1,4 @@
-# Accenture_Internship on Forage (March-2024)
+# Accenture_Data Analytics Internship on Forage (March-2024)
 **Client: Social Buzz**<br>
 **Learning:** <br>
 What are the responsibilities of a Data Analyst at Accenture.<br>
