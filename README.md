@@ -53,7 +53,7 @@ showing that people enjoy "real-life" and "factual" content the most.<br>
 **INSIGHTS:** Food is a common theme with the top 5 categories with "Healthy Eating" ranking the highest.<br>
 This may give an indicationto the audience within your user base. You could use this insight to create a campaign<br>
 and work with healthy eating brands to boost user engagement.<br>
-**NEXTSTEPS :** This ad-hoc analysis is insightful, but it's time to take this analysis into large scale production for real-time<br> understanding of your business.
+**NEXTSTEPS :** This ad-hoc analysis is insightful, but it's time to take this analysis into large scale production for real-time understanding of your business.
 
 
 
