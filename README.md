@@ -37,6 +37,10 @@ Presentation<br>
 Client Intarction<br>
 Video Presentation<br>
 
+**Tools:** <br>
+Advance Excel<br>
+Power Point<br>
+
 **Result:** <br>
 1 – Here Total 16 numbers of Unique Categories.<br>
 2 – Top five Categories are Animals, Sciences, Healthy Eating, Technology and food.<br>
