@@ -1,4 +1,4 @@
-# Accenture_Internship on Forage
+# Accenture_Internship on Forage (March-2024)
 **Client: Social Buzz**<br>
 **Learning:** <br>
 What are the responsibilities of a Data Analyst at Accenture.<br>
@@ -19,7 +19,7 @@ Choose the data visualizations that best support the story you want to tell to t
 You are working as a Data Analyst at Accenture.<br>
 Work within a larger team, where each member has a different role and level of responsibility.<br>
 
-**Requirement of Client:** <br>
+**Requirements of Client:** <br>
 Figure out the top 5 categories with the largest popularity.<br>
 Popularity is quantified by the “Score” given to each reaction type.<br>
 To figure out popularity, we’ll have to add up which content categories have the largest score.<br>
