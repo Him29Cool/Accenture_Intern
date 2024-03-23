@@ -1,4 +1,4 @@
-# Accenture_Intern
+# Accenture_Internship on Forage
 **Client: Social Buzz**<br>
 **Learning:** <br>
 What are the responsibilities of a Data Analyst at Accenture.<br>
